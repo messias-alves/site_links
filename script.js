@@ -6,16 +6,16 @@ function toggleMode() {
   const img = document.querySelector("#profile img")
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/avatar-light.png")
+    img.setAttribute("src", "./assets/logo_fundoescuro.png")
     img.setAttribute(
       "alt",
-      "Foto de Maik Brito, usando óculos escuro e jaqueta preta e fundo amarelo."
+      "Logo da Diferencial Tech e Negócios, em um fundo escuro."
     )
   } else {
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/logo_fundoclaro.png")
     img.setAttribute(
       "alt",
-      "Foto de Maik Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo."
+      "Logo da Diferencial Tech e Negócios, em um fundo branco."
     )
   }
 }
