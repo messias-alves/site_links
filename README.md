@@ -1,7 +1,7 @@
 <h1 align="center"> Site Links </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido no curso Discover da Rocketseat.
 </p>
 
 <p align="center">
@@ -17,10 +17,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -34,9 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site links é um agregador de links para usar como cartão de visitas online.
 
+Nele pude aprimorar os conhecimentos sobre HTML e CSS, aprendendo a estruturar estilizar de maneira organizada os projetos em HTML.
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/Fcn2XhbqIc54JFSpdQW7oN/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&t=vbpVlFXzYNP3lOQ7-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/Fcn2XhbqIc54JFSpdQW7oN/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&t=vbpVlFXzYNP3lOQ7-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
